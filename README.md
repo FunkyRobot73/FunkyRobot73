@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FunkyRobot73 aka Carlos
+- 👀 I’m interested in ... Comics, Old School Video Games, SciFi & Linux
+- 🌱 I’m currently learning ... Javascript & Ruby
+- 💞️ I’m looking to collaborate on ... Javascript
+- 📫 How to reach me ... @funkyrobot73
